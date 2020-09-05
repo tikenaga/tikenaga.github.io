@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
+image: images/
 title: 
 permalink: projects/hack
 # All dates must be YYYY-MM-DD format!
