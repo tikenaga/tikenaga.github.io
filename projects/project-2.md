@@ -1,11 +1,11 @@
 ---
 layout: project
 type: project
-image: images/
+image: images/Hack.png
 title: Video Game Hack Project (In progress)
 permalink: projects/hack
 # All dates must be YYYY-MM-DD format!
-date: 2019-6-15
+date: 2019-06-15
 labels:
 summary: A project to edit an existing videogame to create your own content
 ---
