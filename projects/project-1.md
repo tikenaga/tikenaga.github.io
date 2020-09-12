@@ -12,6 +12,7 @@ labels:
   - Photoshop
 summary: A while ago, I did a big video editing project for my friends. 
 ---
+<img class="" src="/images/vegas.png">
 
 In Highschool, I had a very keen interest in content creation. I was very inspired by many artists and Youtubers, so I ended up spending a lot of time learning how to use certain editing software like Sony Vegas and Photoshop, in order to edit pictures and videos. I never actually did make my own YouTube videos, but I still kept the skills I learned with me, and it has become fairly useful in certain situations. One such situation was in my Junior year Highschool class.
 
