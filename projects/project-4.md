@@ -20,4 +20,4 @@ This project was a pretty huge undertaking and I had to manage my time well in o
 
 During this project, I learned many important skills in web development. The first thing I took away from this project is definitely the github elements in the project. I felt that github is an essential tool for any computer science major, and I learned more about its functionality especially in regard to group projects and how to establish and collaborate in groups. The final project in general was also a good testing grounds to use the various skills I developed through the semester in a practical application that people would use for everyday life.
 
-Link to project: <a href="https://campus-cravings.github.io/">
+<a href="https://campus-cravings.github.io/">Link to project</a>
