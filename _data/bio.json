@@ -24,7 +24,7 @@
         "network": "linkedin",
         "username": "ikenagat",
         "url": "http://linkedin.com/in/ikenagat"
-      },
+      }
     ]
   },
   "interests": [
@@ -58,14 +58,14 @@
         "React",
         "Meteor",
         "MongoDB",
-        "Semantic UI",
+        "Semantic UI"
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "Windows 10",
+        "Windows 10"
       ]
     }
   ],
